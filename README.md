@@ -25,6 +25,13 @@ Contiene proyectos prácticos con **Ansible**, y próximamente Terraform y AWS.
 
 ---
 
+## 📜 Certificaciones
+
+- 🟣 [AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/)<br>
+- 🟣 [AWS Certified Solutions Architect – Associate](https://cp.certmetrics.com/amazon/en/public/verify/credential)
+
+---
+
 ## 🌱 En constante aprendizaje
 
 Actualmente profundizando en:
