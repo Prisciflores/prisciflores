@@ -44,7 +44,6 @@ Actualmente profundizando en:
 
 ## 📫 Contacto
 
-- ✉️ email.......
 - 💼 [LinkedIn](https://www.linkedin.com/in/priscila-flores-839624b3/)
 
 ---
