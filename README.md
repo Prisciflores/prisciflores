@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Prisciflores/prisciflores/blob/master/bannerGit.png?raw=true" alt="Banner Priscila Flores" />
+  <img src="https://github.com/Prisciflores/prisciflores/blob/master/bannerGit.png?raw=true" alt="Banner Priscila Flores" width="700"/>
 </p>
 
 # 👋 ¡Hola! Soy Priscila Flores
