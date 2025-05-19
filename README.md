@@ -36,7 +36,7 @@ Contiene proyectos prácticos con **Ansible**, y próximamente Terraform y AWS.
 
 Actualmente profundizando en:
 
-- Monitoreo con **Prometheus + Datadog**
+- Monitoreo con **Prometheus + Nagios**
 - Seguridad en la nube
 - Mejores prácticas de IaC
 
